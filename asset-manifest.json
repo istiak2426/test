@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http;//istiak2426.github.io/test/static/css/main.073c9b0a.css",
+    "main.js": "/http;//istiak2426.github.io/test/static/js/main.15da6fcd.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/http;//istiak2426.github.io/test/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/http;//istiak2426.github.io/test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/http;//istiak2426.github.io/test/index.html",
+    "main.073c9b0a.css.map": "/http;//istiak2426.github.io/test/static/css/main.073c9b0a.css.map",
+    "main.15da6fcd.js.map": "/http;//istiak2426.github.io/test/static/js/main.15da6fcd.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/http;//istiak2426.github.io/test/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.15da6fcd.js"
+  ]
+}
